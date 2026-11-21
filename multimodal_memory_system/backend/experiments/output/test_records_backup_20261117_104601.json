@@ -1,0 +1,38 @@
+[
+  {
+    "segment_id": 701,
+    "conversation_id": 701,
+    "is_demo": false,
+    "start_time": "2026-11-15T14:28:03",
+    "asr_text": "今天又是新的一天，很高兴开始这一天的旅程。",
+    "emotion": "喜悦",
+    "emotion_confidence": 0.543927,
+    "duration_ms": 14961,
+    "video_object_key": "videos/46abf806fabf4805906cd224f3da7add.webm",
+    "audio_object_key": "audios/46abf806fabf4805906cd224f3da7add.webm"
+  },
+  {
+    "segment_id": 702,
+    "conversation_id": 702,
+    "is_demo": false,
+    "start_time": "2026-11-16T15:34:55",
+    "asr_text": "刚刚睡醒还有点困完了。",
+    "emotion": "中性",
+    "emotion_confidence": 0.549175,
+    "duration_ms": 15236,
+    "video_object_key": "videos/9880fc280c634f42b93d3b9e0c332d33.webm",
+    "audio_object_key": "audios/9880fc280c634f42b93d3b9e0c332d33.webm"
+  },
+  {
+    "segment_id": 703,
+    "conversation_id": 703,
+    "is_demo": false,
+    "start_time": "2026-11-17T09:53:35",
+    "asr_text": "你好，很高兴认认识你。",
+    "emotion": "喜悦",
+    "emotion_confidence": 0.52955,
+    "duration_ms": 4107,
+    "video_object_key": "videos/05e09944fb82420889d8fb904e055ca0.webm",
+    "audio_object_key": "audios/05e09944fb82420889d8fb904e055ca0.webm"
+  }
+]

@@ -1,0 +1,2 @@
+﻿num_queries,exact_match,mean_precision,mean_recall,mean_f1,client_p50_ms,client_p95_ms,client_max_ms
+20,20,1.0,1.0,1.0,11.62,30.52,36.65

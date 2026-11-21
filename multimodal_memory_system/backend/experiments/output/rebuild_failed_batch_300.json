@@ -1,0 +1,6 @@
+[
+  {
+    "segment_id": 268,
+    "error": "Command '['ffmpeg', '-y', '-ss', '2.820', '-i', 'C:\\\\Users\\\\85764\\\\AppData\\\\Local\\\\Temp\\\\tmpni_qrm3n.webm', '-frames:v', '1', '-vf', 'scale=224:224:force_original_aspect_ratio=increase,crop=224:224', '-f', 'rawvideo', '-pix_fmt', 'rgb24', 'C:\\\\Users\\\\85764\\\\AppData\\\\Local\\\\Temp\\\\tmpni_qrm3n.rgb']' returned non-zero exit status 4294967284."
+  }
+]

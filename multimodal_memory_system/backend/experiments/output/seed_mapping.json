@@ -1,0 +1,142 @@
+[
+  {
+    "upload_index": 1,
+    "segment_id": 1,
+    "conversation_id": 1,
+    "emotion": "厌恶",
+    "asr_text": "今天天气很好，我们一起讨论了下周的出行计划。"
+  },
+  {
+    "upload_index": 2,
+    "segment_id": 2,
+    "conversation_id": 2,
+    "emotion": "悲伤",
+    "asr_text": "用户询问了多模态记忆系统的设计思路，我们讨论得很充分。"
+  },
+  {
+    "upload_index": 3,
+    "segment_id": 3,
+    "conversation_id": 3,
+    "emotion": "愤怒",
+    "asr_text": "会议纪要中提到需要优化检索结果的排序策略。"
+  },
+  {
+    "upload_index": 4,
+    "segment_id": 4,
+    "conversation_id": 4,
+    "emotion": "恐惧",
+    "asr_text": "我们聊到了向量检索与全文检索在中文场景下的对比。"
+  },
+  {
+    "upload_index": 5,
+    "segment_id": 5,
+    "conversation_id": 5,
+    "emotion": "喜悦",
+    "asr_text": "这段对话讨论了情绪分析模型在不同数据集上的准确率问题。"
+  },
+  {
+    "upload_index": 6,
+    "segment_id": 6,
+    "conversation_id": 6,
+    "emotion": "厌恶",
+    "asr_text": "今天天气很好，我们一起讨论了下周的出行计划。"
+  },
+  {
+    "upload_index": 7,
+    "segment_id": 7,
+    "conversation_id": 7,
+    "emotion": "悲伤",
+    "asr_text": "用户询问了多模态记忆系统的设计思路，我们讨论得很充分。"
+  },
+  {
+    "upload_index": 8,
+    "segment_id": 8,
+    "conversation_id": 8,
+    "emotion": "愤怒",
+    "asr_text": "会议纪要中提到需要优化检索结果的排序策略。"
+  },
+  {
+    "upload_index": 9,
+    "segment_id": 9,
+    "conversation_id": 9,
+    "emotion": "恐惧",
+    "asr_text": "我们聊到了向量检索与全文检索在中文场景下的对比。"
+  },
+  {
+    "upload_index": 10,
+    "segment_id": 10,
+    "conversation_id": 10,
+    "emotion": "喜悦",
+    "asr_text": "这段对话讨论了情绪分析模型在不同数据集上的准确率问题。"
+  },
+  {
+    "upload_index": 11,
+    "segment_id": 11,
+    "conversation_id": 11,
+    "emotion": "厌恶",
+    "asr_text": "今天天气很好，我们一起讨论了下周的出行计划。"
+  },
+  {
+    "upload_index": 12,
+    "segment_id": 12,
+    "conversation_id": 12,
+    "emotion": "悲伤",
+    "asr_text": "用户询问了多模态记忆系统的设计思路，我们讨论得很充分。"
+  },
+  {
+    "upload_index": 13,
+    "segment_id": 13,
+    "conversation_id": 13,
+    "emotion": "愤怒",
+    "asr_text": "会议纪要中提到需要优化检索结果的排序策略。"
+  },
+  {
+    "upload_index": 14,
+    "segment_id": 14,
+    "conversation_id": 14,
+    "emotion": "恐惧",
+    "asr_text": "我们聊到了向量检索与全文检索在中文场景下的对比。"
+  },
+  {
+    "upload_index": 15,
+    "segment_id": 15,
+    "conversation_id": 15,
+    "emotion": "喜悦",
+    "asr_text": "这段对话讨论了情绪分析模型在不同数据集上的准确率问题。"
+  },
+  {
+    "upload_index": 16,
+    "segment_id": 16,
+    "conversation_id": 16,
+    "emotion": "厌恶",
+    "asr_text": "今天天气很好，我们一起讨论了下周的出行计划。"
+  },
+  {
+    "upload_index": 17,
+    "segment_id": 17,
+    "conversation_id": 17,
+    "emotion": "悲伤",
+    "asr_text": "用户询问了多模态记忆系统的设计思路，我们讨论得很充分。"
+  },
+  {
+    "upload_index": 18,
+    "segment_id": 18,
+    "conversation_id": 18,
+    "emotion": "愤怒",
+    "asr_text": "会议纪要中提到需要优化检索结果的排序策略。"
+  },
+  {
+    "upload_index": 19,
+    "segment_id": 19,
+    "conversation_id": 19,
+    "emotion": "恐惧",
+    "asr_text": "我们聊到了向量检索与全文检索在中文场景下的对比。"
+  },
+  {
+    "upload_index": 20,
+    "segment_id": 20,
+    "conversation_id": 20,
+    "emotion": "喜悦",
+    "asr_text": "这段对话讨论了情绪分析模型在不同数据集上的准确率问题。"
+  }
+]

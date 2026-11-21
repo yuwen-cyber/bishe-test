@@ -1,0 +1,18 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+sqlalchemy>=2.0.30
+pymysql>=1.1.0
+cryptography>=42.0.0
+python-multipart>=0.0.9
+pydantic>=2.7.0
+pydantic-settings>=2.3.0
+minio>=7.2.7
+pymilvus>=2.4.0,<3.0
+numpy>=1.26.0
+
+# 真实模型依赖（已按「向量化 → 情绪 → ASR」顺序接入，启用 USE_REAL_* 开关后需要）
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+torch>=2.0.0
+funasr>=1.4.16
+kaldi-native-fbank>=1.22.0

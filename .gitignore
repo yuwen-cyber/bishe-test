@@ -1,0 +1,47 @@
+# ---------- 依赖与构建产物 ----------
+**/.venv/
+**/venv/
+**/node_modules/
+**/dist/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---------- 环境变量与密钥 ----------
+**/.env
+**/.env.*
+!**/.env.example
+
+# ---------- 大体积媒体素材（数据集切片 / 合成音视频 / 素材源） ----------
+face_videos/
+backend/experiments/real_videos/
+backend/experiments/generated_video/
+backend/experiments/generated_audio/
+backend/experiments/noise/video/
+backend/experiments/noise/audio/
+backend/experiments/noise/sources/
+*.mp4
+*.webm
+*.mkv
+*.mov
+*.avi
+*.mp3
+*.wav
+*.m4a
+
+# ---------- 日志与临时文件 ----------
+*.log
+*.out
+*.err
+*.part
+backend/experiments/output/_eval_db/
+temp/
+tmp/
+
+# ---------- 系统与编辑器 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

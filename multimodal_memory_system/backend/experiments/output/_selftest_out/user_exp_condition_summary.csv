@@ -1,0 +1,16 @@
+﻿condition,condition_label,dimension,n,mean,std
+no_memory,无记忆,memory,3,2.833,0.764
+no_memory,无记忆,understand,3,3.333,0.289
+no_memory,无记忆,trust,3,3.167,0.289
+no_memory,无记忆,companion,3,3.667,0.577
+no_memory,无记忆,overall,3,2.667,1.155
+keyword,关键词检索,memory,3,3.667,0.289
+keyword,关键词检索,understand,3,3.667,0.764
+keyword,关键词检索,trust,3,3.833,0.764
+keyword,关键词检索,companion,3,3.5,0.866
+keyword,关键词检索,overall,3,4.333,0.577
+semantic,语义检索,memory,3,6.167,0.289
+semantic,语义检索,understand,3,4.833,0.577
+semantic,语义检索,trust,3,6.0,0.0
+semantic,语义检索,companion,3,6.0,0.0
+semantic,语义检索,overall,3,6.333,1.155

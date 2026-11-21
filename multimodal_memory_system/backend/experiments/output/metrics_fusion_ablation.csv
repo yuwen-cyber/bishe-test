@@ -1,0 +1,4 @@
+﻿strategy,recall@1,recall@5,recall@10,mrr,ndcg@10,avg_time_ms,num_queries
+concat_pca,0.03,0.16,0.265,0.2194,0.1848,19.66,50
+weighted_avg,0.0367,0.1667,0.275,0.2402,0.1939,19.62,50
+text_only,0.0183,0.1333,0.2467,0.198,0.1663,19.61,50

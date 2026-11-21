@@ -1,0 +1,12 @@
+[
+  {
+    "noise_id": 0,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 708,
+    "conversation_id": 708,
+    "backend_emotion": "喜悦",
+    "backend_asr_text": "成了等了三年，终于成了。",
+    "duration_ms": 10000
+  }
+]

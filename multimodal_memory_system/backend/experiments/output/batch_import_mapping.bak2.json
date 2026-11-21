@@ -1,0 +1,212 @@
+[
+  {
+    "noise_id": 1,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 712,
+    "conversation_id": 712,
+    "backend_emotion": "惊讶",
+    "start_time": "2026-11-16T05:12:38",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 2,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 713,
+    "conversation_id": 713,
+    "backend_emotion": "愤怒",
+    "start_time": "2026-11-16T15:30:01",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 3,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 714,
+    "conversation_id": 714,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-12T00:47:30",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 4,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 715,
+    "conversation_id": 715,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-12T21:25:39",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 5,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 716,
+    "conversation_id": 716,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-11T20:17:05",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 6,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 717,
+    "conversation_id": 717,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-12T21:25:39",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 7,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 718,
+    "conversation_id": 718,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-11T20:17:05",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 8,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 719,
+    "conversation_id": 719,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-14T21:06:29",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 9,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 720,
+    "conversation_id": 720,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-14T12:19:47",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 10,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 721,
+    "conversation_id": 721,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-14T06:00:53",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 11,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 722,
+    "conversation_id": 722,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-13T05:38:36",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 12,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 723,
+    "conversation_id": 723,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-12T18:51:13",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 13,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 724,
+    "conversation_id": 724,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-18T03:50:58",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 14,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 725,
+    "conversation_id": 725,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-12T14:19:21",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 15,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 726,
+    "conversation_id": 726,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-18T16:59:36",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 16,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 727,
+    "conversation_id": 727,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-16T15:53:37",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 17,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 728,
+    "conversation_id": 728,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-11T22:15:26",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 18,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 729,
+    "conversation_id": 729,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-11T21:40:44",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 19,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 730,
+    "conversation_id": 730,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-12T16:17:26",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 20,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 731,
+    "conversation_id": 731,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-14T04:40:58",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 21,
+    "group": "喜悦",
+    "labeled_emotion": "喜悦",
+    "db_segment_id": 732,
+    "conversation_id": 732,
+    "backend_emotion": "喜悦",
+    "start_time": "2026-11-14T08:46:02",
+    "duration_ms": 10000
+  }
+]

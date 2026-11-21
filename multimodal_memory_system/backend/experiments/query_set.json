@@ -1,0 +1,509 @@
+[
+  {
+    "query_id": 1,
+    "query": "找一下 user003 悲伤的对话",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      403,
+      423,
+      443
+    ]
+  },
+  {
+    "query_id": 2,
+    "query": "user010 恐惧的片段",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      570,
+      590,
+      610
+    ]
+  },
+  {
+    "query_id": 3,
+    "query": "user015 喜悦的片段",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      215,
+      235,
+      255
+    ]
+  },
+  {
+    "query_id": 4,
+    "query": "user020 愤怒的片段",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      480,
+      520,
+      550
+    ]
+  },
+  {
+    "query_id": 5,
+    "query": "user006 厌恶的片段",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      626,
+      646,
+      686
+    ]
+  },
+  {
+    "query_id": 6,
+    "query": "user012 惊讶的片段",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      352,
+      372,
+      392
+    ]
+  },
+  {
+    "query_id": 7,
+    "query": "user018 恐惧的对话",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      578,
+      598,
+      618
+    ]
+  },
+  {
+    "query_id": 8,
+    "query": "找一下压力倾诉场景中悲伤的片段",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      402,
+      410,
+      418
+    ]
+  },
+  {
+    "query_id": 9,
+    "query": "找一下情绪访谈里喜悦的片段",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      203,
+      207,
+      211
+    ]
+  },
+  {
+    "query_id": 10,
+    "query": "user008 中性的对话",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      288,
+      308,
+      328
+    ]
+  },
+  {
+    "query_id": 11,
+    "query": "找一下任务求助场景中恐惧的片段",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      554,
+      558,
+      566
+    ]
+  },
+  {
+    "query_id": 12,
+    "query": "user013 愤怒的片段",
+    "type": "结构化精确查询",
+    "relevant_segment_ids": [
+      493,
+      513,
+      533
+    ]
+  },
+  {
+    "query_id": 13,
+    "query": "提到失眠、睡不好、晚上醒的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      26,
+      126,
+      402,
+      458
+    ]
+  },
+  {
+    "query_id": 14,
+    "query": "提到当众讲话、紧张、卡住的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      554,
+      561,
+      580
+    ]
+  },
+  {
+    "query_id": 15,
+    "query": "提到会议、消息提示音、催进度的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      627,
+      635,
+      643
+    ]
+  },
+  {
+    "query_id": 16,
+    "query": "提到味道怪、反胃、吃不下东西的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      626,
+      638,
+      650,
+      662
+    ]
+  },
+  {
+    "query_id": 17,
+    "query": "提到花、晒太阳、天气好的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      165,
+      209,
+      269
+    ]
+  },
+  {
+    "query_id": 18,
+    "query": "提到有人记得小事、替我说公道话、被夸的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      203,
+      270,
+      271
+    ]
+  },
+  {
+    "query_id": 19,
+    "query": "提到整理房间、收拾书桌、归置东西的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      224,
+      260,
+      292,
+      312
+    ]
+  },
+  {
+    "query_id": 20,
+    "query": "提到出门检查清单、忘带东西的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      558,
+      578,
+      606,
+      622
+    ]
+  },
+  {
+    "query_id": 21,
+    "query": "提到开销、待办、轻重缓急的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      280,
+      300,
+      320,
+      336
+    ]
+  },
+  {
+    "query_id": 22,
+    "query": "提到考核、截止时间、赶进度的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      339,
+      363,
+      387,
+      399
+    ]
+  },
+  {
+    "query_id": 23,
+    "query": "提到做饭、菜单、新菜的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      205,
+      217,
+      249
+    ]
+  },
+  {
+    "query_id": 24,
+    "query": "提到照片、旧物、旧聊天记录的片段",
+    "type": "关键词查询",
+    "relevant_segment_ids": [
+      349,
+      369,
+      405,
+      465
+    ]
+  },
+  {
+    "query_id": 25,
+    "query": "用户说压力大快撑不住了",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      402,
+      406,
+      458
+    ]
+  },
+  {
+    "query_id": 26,
+    "query": "被临时改安排弄得很火大",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      477,
+      489,
+      525
+    ]
+  },
+  {
+    "query_id": 27,
+    "query": "担心自己能力不够会被淘汰",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      552,
+      564,
+      572
+    ]
+  },
+  {
+    "query_id": 28,
+    "query": "晚上一个人容易想太多睡不好",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      410,
+      442,
+      470
+    ]
+  },
+  {
+    "query_id": 29,
+    "query": "被误会又解释不清很憋屈",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      478,
+      494,
+      530
+    ]
+  },
+  {
+    "query_id": 30,
+    "query": "对家里人身体特别敏感，一点小症状就胡思乱想",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      564,
+      569,
+      589
+    ]
+  },
+  {
+    "query_id": 31,
+    "query": "今天碰到意料之外的好事",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      337,
+      357,
+      377
+    ]
+  },
+  {
+    "query_id": 32,
+    "query": "被人敷衍答应转头就忘很反感",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      636,
+      660,
+      676
+    ]
+  },
+  {
+    "query_id": 33,
+    "query": "完成拖了很久的事很有成就感",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      202,
+      214,
+      226
+    ]
+  },
+  {
+    "query_id": 34,
+    "query": "跟人争论完脑子乱想冷静梳理",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      479,
+      483,
+      515
+    ]
+  },
+  {
+    "query_id": 35,
+    "query": "准备讲话前紧张怕卡住",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      554,
+      561,
+      574
+    ]
+  },
+  {
+    "query_id": 36,
+    "query": "想给自己定个轻松点的小计划",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      264,
+      288,
+      304
+    ]
+  },
+  {
+    "query_id": 37,
+    "query": "最近情绪低落做什么都没劲",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      414,
+      430,
+      450
+    ]
+  },
+  {
+    "query_id": 38,
+    "query": "有人记得我随口说的小事很温暖",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      203,
+      211,
+      374
+    ]
+  },
+  {
+    "query_id": 39,
+    "query": "讨厌表里不一和背后挑刺",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      631,
+      652,
+      680
+    ]
+  },
+  {
+    "query_id": 40,
+    "query": "对不确定的结果总往坏处想",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      557,
+      568,
+      576
+    ]
+  },
+  {
+    "query_id": 41,
+    "query": "一个人待着反而更舒服",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      285,
+      313,
+      449
+    ]
+  },
+  {
+    "query_id": 42,
+    "query": "被重复琐事缠得心烦",
+    "type": "语义查询",
+    "relevant_segment_ids": [
+      629,
+      645,
+      661
+    ]
+  },
+  {
+    "query_id": 43,
+    "query": "找一段听起来很焦虑的",
+    "type": "跨模态查询",
+    "relevant_segment_ids": [
+      556,
+      568,
+      576
+    ]
+  },
+  {
+    "query_id": 44,
+    "query": "用户情绪低落的那次",
+    "type": "跨模态查询",
+    "relevant_segment_ids": [
+      405,
+      409,
+      425
+    ]
+  },
+  {
+    "query_id": 45,
+    "query": "听起来特别生气的语气",
+    "type": "跨模态查询",
+    "relevant_segment_ids": [
+      481,
+      489,
+      497
+    ]
+  },
+  {
+    "query_id": 46,
+    "query": "语气很兴奋像在分享好消息",
+    "type": "跨模态查询",
+    "relevant_segment_ids": [
+      206,
+      210,
+      218
+    ]
+  },
+  {
+    "query_id": 47,
+    "query": "声音里透着害怕和紧张",
+    "type": "跨模态查询",
+    "relevant_segment_ids": [
+      555,
+      563,
+      579
+    ]
+  },
+  {
+    "query_id": 48,
+    "query": "听起来很疲惫有气无力",
+    "type": "跨模态查询",
+    "relevant_segment_ids": [
+      434,
+      446,
+      454
+    ]
+  },
+  {
+    "query_id": 49,
+    "query": "语气里带着嫌弃和不耐烦",
+    "type": "跨模态查询",
+    "relevant_segment_ids": [
+      627,
+      633,
+      643
+    ]
+  },
+  {
+    "query_id": 50,
+    "query": "听起来很意外没反应过来的",
+    "type": "跨模态查询",
+    "relevant_segment_ids": [
+      341,
+      369,
+      389
+    ]
+  }
+]

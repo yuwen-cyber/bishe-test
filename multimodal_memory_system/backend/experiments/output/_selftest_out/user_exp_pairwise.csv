@@ -1,0 +1,16 @@
+﻿pair,pair_label,dimension,n,mean_diff,cohens_d,method,statistic,p_value
+semantic - keyword,语义检索 - 关键词检索,memory,3,2.5,5.0,配对t检验,8.6603,0.0131
+semantic - keyword,语义检索 - 关键词检索,understand,3,1.167,1.121,配对t检验,1.9415,0.1917
+semantic - keyword,语义检索 - 关键词检索,trust,3,2.167,2.837,配对t检验,4.9135,0.039
+semantic - keyword,语义检索 - 关键词检索,companion,3,2.5,2.887,Wilcoxon符号秩,0.0,0.25
+semantic - keyword,语义检索 - 关键词检索,overall,3,2.0,1.155,Wilcoxon符号秩,0.0,0.5
+semantic - no_memory,语义检索 - 无记忆,memory,3,3.333,4.364,配对t检验,7.5593,0.0171
+semantic - no_memory,语义检索 - 无记忆,understand,3,1.5,1.732,Wilcoxon符号秩,0.0,0.25
+semantic - no_memory,语义检索 - 无记忆,trust,3,2.833,9.815,Wilcoxon符号秩,0.0,0.25
+semantic - no_memory,语义检索 - 无记忆,companion,3,2.333,4.041,Wilcoxon符号秩,0.0,0.25
+semantic - no_memory,语义检索 - 无记忆,overall,3,3.667,3.175,Wilcoxon符号秩,0.0,0.25
+keyword - no_memory,关键词检索 - 无记忆,memory,3,0.833,1.443,Wilcoxon符号秩,0.0,0.25
+keyword - no_memory,关键词检索 - 无记忆,understand,3,0.333,0.436,配对t检验,0.7559,0.5286
+keyword - no_memory,关键词检索 - 无记忆,trust,3,0.667,0.873,配对t检验,1.5119,0.2697
+keyword - no_memory,关键词检索 - 无记忆,companion,3,-0.167,-0.132,配对t检验,-0.2294,0.8399
+keyword - no_memory,关键词检索 - 无记忆,overall,3,1.667,1.091,配对t检验,1.8898,0.1994
