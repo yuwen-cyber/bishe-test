@@ -62,6 +62,7 @@ def main() -> int:
 
     # MinIO 对象大小
     db = SessionLocal()
+    client = storage.get_client()
     print("\nMinIO 抽样（噪声）：")
     for m in (mapping[0], mapping[650], mapping[1299]):
         sid = int(m["db_segment_id"])
@@ -73,7 +74,7 @@ def main() -> int:
         if not conv or not conv.video_object_key:
             continue
         try:
-            info = storage.client.stat_object(storage.settings.minio_bucket, conv.video_object_key)
+            info = client.stat_object(storage.settings.minio_bucket, conv.video_object_key)
             local = VIDEO_DIR / f"noise_{int(m['noise_id']):04d}.mp4"
             print(f"  seg {sid}: MinIO {info.size} 字节｜本地 {local.stat().st_size} 字节"
                   f"｜{'一致' if info.size == local.stat().st_size else '不一致'}")

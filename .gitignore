@@ -45,3 +45,7 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
+# ---------- 本地备份与临时抽帧 ----------
+_backup_*/
+_tmp_frames/

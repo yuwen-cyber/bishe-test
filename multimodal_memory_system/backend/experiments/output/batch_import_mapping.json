@@ -12998,5 +12998,2275 @@
     "backend_emotion": "中性",
     "start_time": "2026-11-16T02:01:23",
     "duration_ms": 10110
+  },
+  {
+    "noise_id": 1300,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2033,
+    "conversation_id": 2033,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T05:12:38",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1301,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2034,
+    "conversation_id": 2034,
+    "backend_emotion": "愤怒",
+    "start_time": "2026-11-16T15:30:01",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1302,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2035,
+    "conversation_id": 2035,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T21:25:39",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1303,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2036,
+    "conversation_id": 2036,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T20:17:05",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1304,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2037,
+    "conversation_id": 2037,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T21:06:29",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1305,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2038,
+    "conversation_id": 2038,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T12:19:47",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1306,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2039,
+    "conversation_id": 2039,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T06:00:53",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1307,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2040,
+    "conversation_id": 2040,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T05:38:36",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1308,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2041,
+    "conversation_id": 2041,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T18:51:13",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1309,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2042,
+    "conversation_id": 2042,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T03:50:58",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1310,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2043,
+    "conversation_id": 2043,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T14:19:21",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1311,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2044,
+    "conversation_id": 2044,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T16:59:36",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1312,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2045,
+    "conversation_id": 2045,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T15:53:37",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1313,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2046,
+    "conversation_id": 2046,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T22:15:26",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1314,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2047,
+    "conversation_id": 2047,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T21:40:44",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1315,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2048,
+    "conversation_id": 2048,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T16:17:26",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1316,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2049,
+    "conversation_id": 2049,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T04:40:58",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1317,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2050,
+    "conversation_id": 2050,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T08:46:02",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1318,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2051,
+    "conversation_id": 2051,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T16:11:43",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1319,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2052,
+    "conversation_id": 2052,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T20:21:02",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1320,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2053,
+    "conversation_id": 2053,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T20:43:44",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1321,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2054,
+    "conversation_id": 2054,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T08:28:28",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1322,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2055,
+    "conversation_id": 2055,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T22:54:56",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1323,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2056,
+    "conversation_id": 2056,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T03:43:32",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1324,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2057,
+    "conversation_id": 2057,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T15:11:38",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1325,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2058,
+    "conversation_id": 2058,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T05:12:28",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1326,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2059,
+    "conversation_id": 2059,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T23:50:29",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1327,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2060,
+    "conversation_id": 2060,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T16:38:09",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1328,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2061,
+    "conversation_id": 2061,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T22:01:44",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1329,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2062,
+    "conversation_id": 2062,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T14:53:34",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1330,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2063,
+    "conversation_id": 2063,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T11:30:14",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1331,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2064,
+    "conversation_id": 2064,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T16:05:43",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1332,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2065,
+    "conversation_id": 2065,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T16:06:18",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1333,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2066,
+    "conversation_id": 2066,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T21:56:09",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1334,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2067,
+    "conversation_id": 2067,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T10:17:12",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1335,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2068,
+    "conversation_id": 2068,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T03:42:52",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1336,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2069,
+    "conversation_id": 2069,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T15:02:24",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1337,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2070,
+    "conversation_id": 2070,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T18:46:15",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1338,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2071,
+    "conversation_id": 2071,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T16:00:51",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1339,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2072,
+    "conversation_id": 2072,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T03:39:42",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1340,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2073,
+    "conversation_id": 2073,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T17:10:14",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1341,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2074,
+    "conversation_id": 2074,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T21:33:37",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1342,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2075,
+    "conversation_id": 2075,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T17:11:03",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1343,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2076,
+    "conversation_id": 2076,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T20:50:52",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1344,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2077,
+    "conversation_id": 2077,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T18:02:50",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1345,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2078,
+    "conversation_id": 2078,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T01:39:21",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1346,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2079,
+    "conversation_id": 2079,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T02:49:01",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1347,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2080,
+    "conversation_id": 2080,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T01:11:15",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1348,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2081,
+    "conversation_id": 2081,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T01:21:29",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1349,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2082,
+    "conversation_id": 2082,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T03:15:22",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1350,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2083,
+    "conversation_id": 2083,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T11:57:07",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1351,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2084,
+    "conversation_id": 2084,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T05:47:36",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1352,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2085,
+    "conversation_id": 2085,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T02:23:39",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1353,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2086,
+    "conversation_id": 2086,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T22:20:01",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1354,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2087,
+    "conversation_id": 2087,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T13:09:57",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1355,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2088,
+    "conversation_id": 2088,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T21:00:29",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1356,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2089,
+    "conversation_id": 2089,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T09:15:33",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1357,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2090,
+    "conversation_id": 2090,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T02:20:50",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1358,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2091,
+    "conversation_id": 2091,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T07:22:48",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1359,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2092,
+    "conversation_id": 2092,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T01:17:25",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1360,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2093,
+    "conversation_id": 2093,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T12:14:27",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1361,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2094,
+    "conversation_id": 2094,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T08:48:18",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1362,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2095,
+    "conversation_id": 2095,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T18:25:07",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1363,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2096,
+    "conversation_id": 2096,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T03:43:11",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1364,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2097,
+    "conversation_id": 2097,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T21:57:56",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1365,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2098,
+    "conversation_id": 2098,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T01:03:55",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1366,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2099,
+    "conversation_id": 2099,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T23:15:54",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1367,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2100,
+    "conversation_id": 2100,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T12:22:35",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1368,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2101,
+    "conversation_id": 2101,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T00:49:22",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1369,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2102,
+    "conversation_id": 2102,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T20:28:48",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1370,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2103,
+    "conversation_id": 2103,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T02:01:24",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1371,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2104,
+    "conversation_id": 2104,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T18:45:46",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1372,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2105,
+    "conversation_id": 2105,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T09:47:50",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1373,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2106,
+    "conversation_id": 2106,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T14:50:51",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1374,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2107,
+    "conversation_id": 2107,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T00:34:46",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1375,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2108,
+    "conversation_id": 2108,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T12:18:22",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1376,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2109,
+    "conversation_id": 2109,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T12:35:39",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1377,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2110,
+    "conversation_id": 2110,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T03:38:34",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1378,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2111,
+    "conversation_id": 2111,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T03:31:27",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1379,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2112,
+    "conversation_id": 2112,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T19:37:40",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1380,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2113,
+    "conversation_id": 2113,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T07:13:24",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1381,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2114,
+    "conversation_id": 2114,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T04:58:03",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1382,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2115,
+    "conversation_id": 2115,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T11:27:15",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1383,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2116,
+    "conversation_id": 2116,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T05:17:35",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1384,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2117,
+    "conversation_id": 2117,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T07:42:54",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1385,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2118,
+    "conversation_id": 2118,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T22:20:59",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1386,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2119,
+    "conversation_id": 2119,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T08:52:56",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1387,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2120,
+    "conversation_id": 2120,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T09:50:51",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1388,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2121,
+    "conversation_id": 2121,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T18:59:06",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1389,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2122,
+    "conversation_id": 2122,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T08:16:43",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1390,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2123,
+    "conversation_id": 2123,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T02:27:11",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1391,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2124,
+    "conversation_id": 2124,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T10:12:11",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1392,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2125,
+    "conversation_id": 2125,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T08:39:23",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1393,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2126,
+    "conversation_id": 2126,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T02:55:55",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1394,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2127,
+    "conversation_id": 2127,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T14:24:41",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1395,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2128,
+    "conversation_id": 2128,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T08:14:10",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1396,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2129,
+    "conversation_id": 2129,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T02:39:01",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1397,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2130,
+    "conversation_id": 2130,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T06:36:51",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1398,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2131,
+    "conversation_id": 2131,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T18:09:06",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1399,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2132,
+    "conversation_id": 2132,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T05:40:13",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1400,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2133,
+    "conversation_id": 2133,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T12:50:07",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1401,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2134,
+    "conversation_id": 2134,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T08:30:37",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1402,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2135,
+    "conversation_id": 2135,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T01:59:18",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1403,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2136,
+    "conversation_id": 2136,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T17:31:44",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1404,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2137,
+    "conversation_id": 2137,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T15:16:22",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1405,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2138,
+    "conversation_id": 2138,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T17:47:25",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1406,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2139,
+    "conversation_id": 2139,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T14:57:58",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1407,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2140,
+    "conversation_id": 2140,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T09:20:01",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1408,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2141,
+    "conversation_id": 2141,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T22:26:20",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1409,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2142,
+    "conversation_id": 2142,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T04:52:54",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1410,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2143,
+    "conversation_id": 2143,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T05:17:31",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1411,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2144,
+    "conversation_id": 2144,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T17:24:37",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1412,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2145,
+    "conversation_id": 2145,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T12:44:48",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1413,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2146,
+    "conversation_id": 2146,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T15:28:45",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1414,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2147,
+    "conversation_id": 2147,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T02:43:25",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1415,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2148,
+    "conversation_id": 2148,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T20:56:15",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1416,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2149,
+    "conversation_id": 2149,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T09:31:05",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1417,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2150,
+    "conversation_id": 2150,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T11:35:53",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1418,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2151,
+    "conversation_id": 2151,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T15:57:46",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1419,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2152,
+    "conversation_id": 2152,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T18:43:00",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1420,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2153,
+    "conversation_id": 2153,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T07:30:13",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1421,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2154,
+    "conversation_id": 2154,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T05:04:17",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1422,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2155,
+    "conversation_id": 2155,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T04:09:16",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1423,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2156,
+    "conversation_id": 2156,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T18:33:54",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1424,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2157,
+    "conversation_id": 2157,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T05:19:45",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1425,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2158,
+    "conversation_id": 2158,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T23:06:56",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1426,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2159,
+    "conversation_id": 2159,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T14:13:46",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1427,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2160,
+    "conversation_id": 2160,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T06:08:19",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1428,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2161,
+    "conversation_id": 2161,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T16:20:38",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1429,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2162,
+    "conversation_id": 2162,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T22:21:56",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1430,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2163,
+    "conversation_id": 2163,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T01:24:14",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1431,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2164,
+    "conversation_id": 2164,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T18:43:06",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1432,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2165,
+    "conversation_id": 2165,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T16:04:59",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1433,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2166,
+    "conversation_id": 2166,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T21:29:30",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1434,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2167,
+    "conversation_id": 2167,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T02:29:17",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1435,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2168,
+    "conversation_id": 2168,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T19:38:04",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1436,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2169,
+    "conversation_id": 2169,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T11:04:00",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1437,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2170,
+    "conversation_id": 2170,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T01:09:23",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1438,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2171,
+    "conversation_id": 2171,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T13:56:42",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1439,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2172,
+    "conversation_id": 2172,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T17:43:03",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1440,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2173,
+    "conversation_id": 2173,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T14:48:22",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1441,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2174,
+    "conversation_id": 2174,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T17:02:10",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1442,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2175,
+    "conversation_id": 2175,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T16:52:22",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1443,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2176,
+    "conversation_id": 2176,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T19:59:39",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1444,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2177,
+    "conversation_id": 2177,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T03:55:42",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1445,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2178,
+    "conversation_id": 2178,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T16:52:03",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1446,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2179,
+    "conversation_id": 2179,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T22:56:13",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1447,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2180,
+    "conversation_id": 2180,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T09:31:03",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1448,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2181,
+    "conversation_id": 2181,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T01:54:37",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1449,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2182,
+    "conversation_id": 2182,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T12:03:16",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1450,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2183,
+    "conversation_id": 2183,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T02:06:19",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1451,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2184,
+    "conversation_id": 2184,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T23:28:36",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1452,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2185,
+    "conversation_id": 2185,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T13:09:59",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1453,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2186,
+    "conversation_id": 2186,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T19:27:18",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1454,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2187,
+    "conversation_id": 2187,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T11:25:02",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1455,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2188,
+    "conversation_id": 2188,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T11:19:00",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1456,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2189,
+    "conversation_id": 2189,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T18:40:22",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1457,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2190,
+    "conversation_id": 2190,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T21:35:01",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1458,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2191,
+    "conversation_id": 2191,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T22:43:32",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1459,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2192,
+    "conversation_id": 2192,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T06:34:11",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1460,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2193,
+    "conversation_id": 2193,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T10:44:43",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1461,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2194,
+    "conversation_id": 2194,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T05:52:18",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1462,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2195,
+    "conversation_id": 2195,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T11:09:32",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1463,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2196,
+    "conversation_id": 2196,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T10:15:16",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1464,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2197,
+    "conversation_id": 2197,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T11:56:22",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1465,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2198,
+    "conversation_id": 2198,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T13:56:54",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1466,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2199,
+    "conversation_id": 2199,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T10:33:17",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1467,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2200,
+    "conversation_id": 2200,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T09:09:34",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1468,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2201,
+    "conversation_id": 2201,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T00:09:42",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1469,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2202,
+    "conversation_id": 2202,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T01:37:49",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1470,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2203,
+    "conversation_id": 2203,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T02:23:48",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1471,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2204,
+    "conversation_id": 2204,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T07:26:09",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1472,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2205,
+    "conversation_id": 2205,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T05:08:30",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1473,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2206,
+    "conversation_id": 2206,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T13:05:48",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1474,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2207,
+    "conversation_id": 2207,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T18:12:12",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1475,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2208,
+    "conversation_id": 2208,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T22:41:46",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1476,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2209,
+    "conversation_id": 2209,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T16:14:52",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1477,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2210,
+    "conversation_id": 2210,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T02:41:26",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1478,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2211,
+    "conversation_id": 2211,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T02:04:52",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1479,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2212,
+    "conversation_id": 2212,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T23:35:22",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1480,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2213,
+    "conversation_id": 2213,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T07:47:38",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1481,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2214,
+    "conversation_id": 2214,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T09:12:53",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1482,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2215,
+    "conversation_id": 2215,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T01:45:59",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1483,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2216,
+    "conversation_id": 2216,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T20:36:21",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1484,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2217,
+    "conversation_id": 2217,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T19:45:17",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1485,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2218,
+    "conversation_id": 2218,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T00:30:17",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1486,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2219,
+    "conversation_id": 2219,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T00:14:42",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1487,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2220,
+    "conversation_id": 2220,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T13:12:27",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1488,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2221,
+    "conversation_id": 2221,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T06:26:52",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1489,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2222,
+    "conversation_id": 2222,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T07:38:56",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1490,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2223,
+    "conversation_id": 2223,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T15:28:28",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1491,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2224,
+    "conversation_id": 2224,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T19:07:36",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1492,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2225,
+    "conversation_id": 2225,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T16:21:26",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1493,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2226,
+    "conversation_id": 2226,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T06:20:28",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1494,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2227,
+    "conversation_id": 2227,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T08:01:32",
+    "duration_ms": 8000
+  },
+  {
+    "noise_id": 1495,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2228,
+    "conversation_id": 2228,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T16:23:44",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1496,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2229,
+    "conversation_id": 2229,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T05:08:34",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1497,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2230,
+    "conversation_id": 2230,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T15:05:40",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1498,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2231,
+    "conversation_id": 2231,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T09:40:41",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1499,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2232,
+    "conversation_id": 2232,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T06:08:53",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1500,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2233,
+    "conversation_id": 2233,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T07:41:02",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1501,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2234,
+    "conversation_id": 2234,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T08:37:54",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1502,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2235,
+    "conversation_id": 2235,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-11T22:08:58",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1503,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2236,
+    "conversation_id": 2236,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T13:14:39",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1504,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2237,
+    "conversation_id": 2237,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T09:38:19",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1505,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2238,
+    "conversation_id": 2238,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T18:45:31",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1506,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2239,
+    "conversation_id": 2239,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T10:19:25",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1507,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2240,
+    "conversation_id": 2240,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T22:06:44",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1508,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2241,
+    "conversation_id": 2241,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T10:23:13",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1509,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2242,
+    "conversation_id": 2242,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T03:24:03",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1510,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2243,
+    "conversation_id": 2243,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T02:03:47",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1511,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2244,
+    "conversation_id": 2244,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T03:32:19",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1512,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2245,
+    "conversation_id": 2245,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T11:19:42",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1513,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2246,
+    "conversation_id": 2246,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-18T12:50:01",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1514,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2247,
+    "conversation_id": 2247,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T06:40:31",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1515,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2248,
+    "conversation_id": 2248,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-14T11:46:41",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1516,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2249,
+    "conversation_id": 2249,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T06:45:48",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1517,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2250,
+    "conversation_id": 2250,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T11:33:53",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1518,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2251,
+    "conversation_id": 2251,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-13T20:27:39",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1519,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2252,
+    "conversation_id": 2252,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T16:28:27",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1520,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2253,
+    "conversation_id": 2253,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T17:13:59",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1521,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2254,
+    "conversation_id": 2254,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T18:33:09",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1522,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2255,
+    "conversation_id": 2255,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-15T20:11:47",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1523,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2256,
+    "conversation_id": 2256,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T16:22:34",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1524,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2257,
+    "conversation_id": 2257,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-16T12:44:31",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1525,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2258,
+    "conversation_id": 2258,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-17T05:01:50",
+    "duration_ms": 10000
+  },
+  {
+    "noise_id": 1526,
+    "group": "纯干扰",
+    "labeled_emotion": "中性",
+    "db_segment_id": 2259,
+    "conversation_id": 2259,
+    "backend_emotion": "中性",
+    "start_time": "2026-11-12T04:46:42",
+    "duration_ms": 10000
   }
 ]

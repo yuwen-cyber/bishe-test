@@ -54,6 +54,26 @@ def _read(path: Path) -> list[dict]:
     return out
 
 
+def _data_scale(src: Path) -> str:
+    """按实际映射统计数据集规模，避免口径写死后与新数据脱节。"""
+    mapping_path = src / "batch_import_mapping.json"
+    noise_total = film_total = 0
+    if mapping_path.exists():
+        try:
+            mapping = json.loads(mapping_path.read_text(encoding="utf-8"))
+            noise_total = len(mapping)
+            film_total = sum(1 for m in mapping if int(m.get("noise_id", 0)) >= 1300)
+        except Exception:
+            pass
+    if noise_total == 0:
+        return "50 条查询（157 个真值项）"
+    formal, user = 700, 3
+    total = formal + noise_total + user
+    scene_noise = noise_total - film_total
+    return (f"{total} 条片段（正式 {formal} + 场景噪声 {scene_noise} + "
+            f"影片噪声 {film_total} + 用户自录 {user}）/ 50 条查询（157 个真值项）")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="导出演示面板数据")
     parser.add_argument("--source-dir", default="experiments/output")
@@ -65,7 +85,7 @@ def main() -> int:
         "meta": {
             "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "project": "面向桌面情感陪伴机器人的多模态对话记忆与语义检索系统",
-            "data_scale": "2003 条片段（正式 700 + 噪声 1300 + 用户自录 3）/ 50 条查询（157 个真值项）",
+            "data_scale": _data_scale(src),
             "notes": [
                 "四模式接口最多返回 top3，@5/@10 的 Precision 分母实际只到 3。",
                 "结构化精确查询原设计含用户ID维度，当前数据集无说话人字段，"
