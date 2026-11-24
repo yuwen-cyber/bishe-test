@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-24 12:04:40",
+    "generated_at": "2026-11-24 14:06:37",
     "project": "面向桌面情感陪伴机器人的多模态对话记忆与语义检索系统",
     "data_scale": "2230 条片段（正式 700 + 场景噪声 1300 + 影片噪声 227 + 用户自录 3）/ 50 条查询（157 个真值项）",
     "notes": [
@@ -70,10 +70,10 @@
       "f1@10": 0.045714,
       "mrr": 0.09,
       "ndcg@10": 0.047368,
-      "avg_time_ms": 2.284272,
-      "client_p50_ms": 13.143,
-      "client_p95_ms": 30.417,
-      "client_max_ms": 33.027,
+      "avg_time_ms": 2.66711,
+      "client_p50_ms": 11.135,
+      "client_p95_ms": 20.05,
+      "client_max_ms": 21.615,
       "num_queries": 50
     },
     {
@@ -89,10 +89,10 @@
       "f1@10": 0.06381,
       "mrr": 0.103333,
       "ndcg@10": 0.057426,
-      "avg_time_ms": 36.621856,
-      "client_p50_ms": 54.858,
-      "client_p95_ms": 68.484,
-      "client_max_ms": 73.144,
+      "avg_time_ms": 47.595978,
+      "client_p50_ms": 57.832,
+      "client_p95_ms": 73.765,
+      "client_max_ms": 78.337,
       "num_queries": 50
     },
     {
@@ -108,10 +108,10 @@
       "f1@10": 0.057143,
       "mrr": 0.096667,
       "ndcg@10": 0.052734,
-      "avg_time_ms": 39.3415,
-      "client_p50_ms": 53.745,
-      "client_p95_ms": 68.366,
-      "client_max_ms": 218.403,
+      "avg_time_ms": 48.575028,
+      "client_p50_ms": 57.068,
+      "client_p95_ms": 72.49,
+      "client_max_ms": 81.784,
       "num_queries": 50
     },
     {
@@ -127,10 +127,10 @@
       "f1@10": 0.057143,
       "mrr": 0.096667,
       "ndcg@10": 0.052734,
-      "avg_time_ms": 35.873884,
-      "client_p50_ms": 52.149,
-      "client_p95_ms": 66.372,
-      "client_max_ms": 67.806,
+      "avg_time_ms": 48.506264,
+      "client_p50_ms": 59.198,
+      "client_p95_ms": 70.683,
+      "client_max_ms": 75.332,
       "num_queries": 50
     }
   ],
@@ -148,10 +148,10 @@
       "f1@10": 0.0963,
       "mrr": 0.2104,
       "ndcg@10": 0.1454,
-      "avg_time_ms": 3.72,
-      "p50_time_ms": 3.78,
-      "p95_time_ms": 5.31,
-      "max_time_ms": 5.81,
+      "avg_time_ms": 3.96,
+      "p50_time_ms": 3.87,
+      "p95_time_ms": 5.74,
+      "max_time_ms": 7.56,
       "num_queries": 50
     },
     {
@@ -167,10 +167,10 @@
       "f1@10": 0.1084,
       "mrr": 0.2101,
       "ndcg@10": 0.1565,
-      "avg_time_ms": 24.65,
-      "p50_time_ms": 24.78,
-      "p95_time_ms": 27.94,
-      "max_time_ms": 30.08,
+      "avg_time_ms": 31.74,
+      "p50_time_ms": 30.26,
+      "p95_time_ms": 38.64,
+      "max_time_ms": 44.24,
       "num_queries": 50
     },
     {
@@ -186,10 +186,10 @@
       "f1@10": 0.1084,
       "mrr": 0.2107,
       "ndcg@10": 0.1557,
-      "avg_time_ms": 28.37,
-      "p50_time_ms": 28.39,
-      "p95_time_ms": 33.01,
-      "max_time_ms": 35.33,
+      "avg_time_ms": 35.69,
+      "p50_time_ms": 34.27,
+      "p95_time_ms": 43.22,
+      "max_time_ms": 48.94,
       "num_queries": 50
     },
     {
@@ -205,10 +205,10 @@
       "f1@10": 0.1204,
       "mrr": 0.2246,
       "ndcg@10": 0.1703,
-      "avg_time_ms": 28.37,
-      "p50_time_ms": 28.39,
-      "p95_time_ms": 33.01,
-      "max_time_ms": 35.33,
+      "avg_time_ms": 35.69,
+      "p50_time_ms": 34.27,
+      "p95_time_ms": 43.22,
+      "max_time_ms": 48.94,
       "num_queries": 50
     }
   ],
@@ -220,7 +220,7 @@
       "recall@10": 0.2417,
       "mrr": 0.1907,
       "ndcg@10": 0.1612,
-      "avg_time_ms": 12.46,
+      "avg_time_ms": 24.32,
       "num_queries": 50
     },
     {
@@ -230,17 +230,17 @@
       "recall@10": 0.0333,
       "mrr": 0.0357,
       "ndcg@10": 0.0251,
-      "avg_time_ms": 12.36,
+      "avg_time_ms": 24.12,
       "num_queries": 50
     },
     {
       "config": "image_only",
       "recall@1": 0.02,
-      "recall@5": 0.0667,
+      "recall@5": 0.0533,
       "recall@10": 0.0983,
-      "mrr": 0.1153,
-      "ndcg@10": 0.0791,
-      "avg_time_ms": 12.32,
+      "mrr": 0.101,
+      "ndcg@10": 0.0716,
+      "avg_time_ms": 24.11,
       "num_queries": 50
     },
     {
@@ -250,7 +250,7 @@
       "recall@10": 0.2483,
       "mrr": 0.2074,
       "ndcg@10": 0.1691,
-      "avg_time_ms": 12.52,
+      "avg_time_ms": 24.55,
       "num_queries": 50
     },
     {
@@ -259,8 +259,8 @@
       "recall@5": 0.1483,
       "recall@10": 0.28,
       "mrr": 0.2162,
-      "ndcg@10": 0.1869,
-      "avg_time_ms": 12.46,
+      "ndcg@10": 0.1868,
+      "avg_time_ms": 24.45,
       "num_queries": 50
     },
     {
@@ -270,7 +270,7 @@
       "recall@10": 0.28,
       "mrr": 0.215,
       "ndcg@10": 0.1857,
-      "avg_time_ms": 12.62,
+      "avg_time_ms": 24.79,
       "num_queries": 50
     },
     {
@@ -280,7 +280,7 @@
       "recall@10": 0.2283,
       "mrr": 0.2213,
       "ndcg@10": 0.1678,
-      "avg_time_ms": 12.6,
+      "avg_time_ms": 24.84,
       "num_queries": 50
     }
   ],
@@ -288,11 +288,11 @@
     {
       "strategy": "concat_pca",
       "recall@1": 0.0183,
-      "recall@5": 0.1117,
-      "recall@10": 0.1617,
-      "mrr": 0.1479,
-      "ndcg@10": 0.1172,
-      "avg_time_ms": 11.6,
+      "recall@5": 0.1183,
+      "recall@10": 0.175,
+      "mrr": 0.1485,
+      "ndcg@10": 0.1235,
+      "avg_time_ms": 25.82,
       "num_queries": 50
     },
     {
@@ -300,9 +300,9 @@
       "recall@1": 0.0367,
       "recall@5": 0.1667,
       "recall@10": 0.275,
-      "mrr": 0.2433,
+      "mrr": 0.2435,
       "ndcg@10": 0.1948,
-      "avg_time_ms": 11.56,
+      "avg_time_ms": 25.69,
       "num_queries": 50
     },
     {
@@ -312,7 +312,7 @@
       "recall@10": 0.2417,
       "mrr": 0.1907,
       "ndcg@10": 0.1612,
-      "avg_time_ms": 11.56,
+      "avg_time_ms": 25.66,
       "num_queries": 50
     }
   ],
@@ -376,10 +376,10 @@
       "recall@10": 0.3108,
       "f1@10": 0.3602,
       "mrr": 0.5697,
-      "avg_time_ms": 3.72,
-      "p50_time_ms": 2.45,
-      "p95_time_ms": 10.07,
-      "max_time_ms": 12.25,
+      "avg_time_ms": 3.29,
+      "p50_time_ms": 2.67,
+      "p95_time_ms": 8.42,
+      "max_time_ms": 10.03,
       "num_queries": 20
     },
     {
@@ -391,10 +391,10 @@
       "recall@10": 0.9048,
       "f1@10": 0.5664,
       "mrr": 0.7778,
-      "avg_time_ms": 3.74,
-      "p50_time_ms": 3.68,
-      "p95_time_ms": 3.87,
-      "max_time_ms": 3.89,
+      "avg_time_ms": 4.17,
+      "p50_time_ms": 4.37,
+      "p95_time_ms": 4.71,
+      "max_time_ms": 4.75,
       "num_queries": 3
     },
     {
@@ -406,10 +406,10 @@
       "recall@10": 0.0971,
       "f1@10": 0.0883,
       "mrr": 0.4428,
-      "avg_time_ms": 0.76,
-      "p50_time_ms": 0.56,
-      "p95_time_ms": 0.97,
-      "max_time_ms": 3.75,
+      "avg_time_ms": 0.94,
+      "p50_time_ms": 0.65,
+      "p95_time_ms": 1.28,
+      "max_time_ms": 4.99,
       "num_queries": 20
     }
   ],
@@ -627,7 +627,7 @@
       "recall@10": 0.368,
       "precision@5": 0.2167,
       "f1@5": 0.2523,
-      "mrr": 0.4323,
+      "mrr": 0.4322,
       "ndcg@10": 0.2952
     },
     {
@@ -663,7 +663,7 @@
       "recall@10": 0.0556,
       "precision@5": 0.0,
       "f1@5": 0.0,
-      "mrr": 0.0226,
+      "mrr": 0.0227,
       "ndcg@10": 0.0243
     },
     {

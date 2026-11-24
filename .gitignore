@@ -49,3 +49,4 @@ desktop.ini
 # ---------- 本地备份与临时抽帧 ----------
 _backup_*/
 _tmp_frames/
+backend/experiments/noise/_dark_backup/
