@@ -58,6 +58,7 @@ def _presigned(key: str | None) -> Optional[str]:
 @router.get("/structured/search", response_model=schemas.SearchResponse)
 def structured_search(
     emotion: Optional[str] = Query(None, description="情绪等值，多个用逗号分隔"),
+    emotions: Optional[str] = Query(None, description="同 emotion 的别名，兼容其余检索接口的复数写法"),
     start: Optional[datetime] = Query(None),
     end: Optional[datetime] = Query(None),
     keyword: Optional[str] = Query(None, description="片段文本包含该关键词"),
@@ -71,7 +72,10 @@ def structured_search(
     clauses: list[str] = []
     params: dict = {}
 
-    emo_list = [e.strip() for e in (emotion or "").split(",") if e.strip()]
+    # 同时接受 emotion（本接口原有）与 emotions（其余检索接口的写法），
+    # 两者都传时取并集，避免客户端按错参数名后筛选被静默忽略。
+    emo_raw = ",".join(x for x in (emotion, emotions) if x)
+    emo_list = [e.strip() for e in emo_raw.split(",") if e.strip()]
     if emo_list:
         clauses.append("s.emotion IN (" + ",".join(_sql_literal(e) for e in emo_list) + ")")
     if start:

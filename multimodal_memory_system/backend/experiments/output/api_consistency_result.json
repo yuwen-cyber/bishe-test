@@ -1,0 +1,85 @@
+{
+ "structured_emotion_singular": {
+  "status": 200,
+  "n": 5,
+  "emotions": [
+   "喜悦"
+  ]
+ },
+ "structured_emotions_plural": {
+  "status": 200,
+  "n": 5,
+  "emotions": [
+   "中性",
+   "喜悦"
+  ]
+ },
+ "fields::baseline/search": {
+  "status": 200,
+  "keys": [
+   "asr_text",
+   "audio_url",
+   "conversation_id",
+   "data_source",
+   "emotion",
+   "is_demo",
+   "score",
+   "segment_id",
+   "timestamp",
+   "video_url"
+  ],
+  "has_data_source": true,
+  "data_source": "formal"
+ },
+ "fields::advanced/search": {
+  "status": 200,
+  "keys": [
+   "asr_text",
+   "audio_url",
+   "conversation_id",
+   "data_source",
+   "emotion",
+   "is_demo",
+   "score",
+   "segment_id",
+   "timestamp",
+   "video_url"
+  ],
+  "has_data_source": true,
+  "data_source": "formal"
+ },
+ "fields::hybrid/search": {
+  "status": 200,
+  "keys": [
+   "asr_text",
+   "audio_url",
+   "conversation_id",
+   "data_source",
+   "emotion",
+   "is_demo",
+   "score",
+   "segment_id",
+   "timestamp",
+   "video_url"
+  ],
+  "has_data_source": true,
+  "data_source": "formal"
+ },
+ "fields::structured/search": {
+  "status": 200,
+  "keys": [
+   "asr_text",
+   "audio_url",
+   "conversation_id",
+   "data_source",
+   "emotion",
+   "is_demo",
+   "score",
+   "segment_id",
+   "timestamp",
+   "video_url"
+  ],
+  "has_data_source": true,
+  "data_source": "formal"
+ }
+}

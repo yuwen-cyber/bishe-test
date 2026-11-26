@@ -1,0 +1,135 @@
+{
+ "tag_filter": {
+  "baseline/search::中性": {
+   "status": 200,
+   "n": 3,
+   "emotions": [
+    "中性"
+   ],
+   "all_match": true
+  },
+  "baseline/search::喜悦": {
+   "status": 200,
+   "n": 3,
+   "emotions": [
+    "喜悦"
+   ],
+   "all_match": true
+  },
+  "baseline/search::悲伤": {
+   "status": 200,
+   "n": 3,
+   "emotions": [
+    "悲伤"
+   ],
+   "all_match": true
+  },
+  "hybrid/search::中性": {
+   "status": 200,
+   "n": 3,
+   "emotions": [
+    "中性"
+   ],
+   "all_match": true
+  },
+  "hybrid/search::喜悦": {
+   "status": 200,
+   "n": 3,
+   "emotions": [
+    "喜悦"
+   ],
+   "all_match": true
+  },
+  "hybrid/search::悲伤": {
+   "status": 200,
+   "n": 3,
+   "emotions": [
+    "悲伤"
+   ],
+   "all_match": true
+  },
+  "structured/search::中性": {
+   "status": 200,
+   "n": 50,
+   "emotions": [
+    "中性",
+    "厌恶",
+    "喜悦",
+    "悲伤",
+    "惊讶",
+    "愤怒"
+   ],
+   "all_match": false
+  },
+  "structured/search::喜悦": {
+   "status": 200,
+   "n": 50,
+   "emotions": [
+    "中性",
+    "厌恶",
+    "喜悦",
+    "悲伤",
+    "惊讶",
+    "愤怒"
+   ],
+   "all_match": false
+  },
+  "structured/search::悲伤": {
+   "status": 200,
+   "n": 50,
+   "emotions": [
+    "中性",
+    "厌恶",
+    "喜悦",
+    "悲伤",
+    "惊讶",
+    "愤怒"
+   ],
+   "all_match": false
+  }
+ },
+ "time_filter": {
+  "full_range": {
+   "n": 3,
+   "ids": [
+    707,
+    1316,
+    750
+   ]
+  },
+  "first_third": {
+   "n": 3,
+   "ids": [
+    910,
+    1229,
+    877
+   ],
+   "window": [
+    "2026-11-11 13:07:05",
+    "2026-11-13 23:41:40.666667"
+   ],
+   "all_in_range": true
+  },
+  "last_hour": {
+   "n": 2,
+   "ids": [
+    1316,
+    750
+   ],
+   "all_in_range": true
+  },
+  "range_changes_results": true
+ },
+ "combined": {
+  "status": 200,
+  "n": 3,
+  "emotions": [
+   "喜悦"
+  ],
+  "ids": [
+   753,
+   786,
+   804
+  ]
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "db": {
+  "conversations": 2230,
+  "segments": 2230,
+  "emotion_dist": {
+   "中性": 969,
+   "厌恶": 127,
+   "喜悦": 314,
+   "恐惧": 183,
+   "悲伤": 146,
+   "惊讶": 261,
+   "愤怒": 230
+  }
+ },
+ "minio": {
+  "objects": 4524,
+  "audio": 2262,
+  "video": 2262
+ },
+ "asr_empty": {
+  "count": 0,
+  "total": 2230,
+  "ratio": 0.0
+ },
+ "playback": {
+  "video": {
+   "ok": true,
+   "status": 200,
+   "content_type": "video/mp4",
+   "first_chunk_bytes": 121785,
+   "latency_ms": 28.3
+  },
+  "audio": {
+   "ok": true,
+   "status": 200,
+   "content_type": "audio/mpeg",
+   "first_chunk_bytes": 56880,
+   "latency_ms": 7.3
+  }
+ },
+ "retrieval_hit": [
+  {
+   "q": "压力很大",
+   "n": 3,
+   "top": "最近工作压力真的好大我，感觉有点撑不住了，晚上经常失眠，脑子"
+  },
+  {
+   "q": "被人敷衍",
+   "n": 3,
+   "top": "我特别反感被人敷衍，嘴上答应的好好的，转头就望那种感觉，让我"
+  },
+  {
+   "q": "当众讲话紧张",
+   "n": 3,
+   "top": "明天要当众汇报，我现在心跳特别快，脑子里全是万一讲砸了怎么办"
+  },
+  {
+   "q": "整理房间",
+   "n": 3,
+   "top": "我准备开始整理房间，你帮我按区域列个顺序吧，我想一口气收拾的"
+  },
+  {
+   "q": "睡不着",
+   "n": 3,
+   "top": "我最近总怕自己表现不好，一想到这些就睡不着，越想越焦虑。"
+  }
+ ],
+ "emotion_filter": {
+  "中性": {
+   "status": 200,
+   "n": 0,
+   "emotions": [],
+   "all_match": false
+  },
+  "喜悦": {
+   "status": 200,
+   "n": 0,
+   "emotions": [],
+   "all_match": false
+  },
+  "中性_hybrid": {
+   "status": 200,
+   "n": 3,
+   "emotions": [
+    "中性",
+    "中性",
+    "中性"
+   ],
+   "all_match": true
+  },
+  "喜悦_hybrid": {
+   "status": 200,
+   "n": 3,
+   "emotions": [
+    "喜悦",
+    "喜悦",
+    "喜悦"
+   ],
+   "all_match": true
+  }
+ },
+ "time_filter": {
+  "status": 200,
+  "n": 0,
+  "all_in_range": null,
+  "window": [
+   "2026-11-15 04:58:58.500000",
+   "2026-11-18 20:50:52"
+  ]
+ },
+ "latency": {
+  "baseline": {
+   "status": "ok",
+   "p50_ms": 21.5,
+   "p95_ms": 30.5,
+   "max_ms": 30.8
+  },
+  "advanced": {
+   "status": "ok",
+   "p50_ms": 46.8,
+   "p95_ms": 51.9,
+   "max_ms": 54.5
+  },
+  "hybrid": {
+   "status": "ok",
+   "p50_ms": 32.2,
+   "p95_ms": 33.5,
+   "max_ms": 49.1
+  },
+  "structured": {
+   "status": "ok",
+   "p50_ms": 34.4,
+   "p95_ms": 41.1,
+   "max_ms": 63.2
+  }
+ },
+ "edge_cases": {
+  "空查询": {
+   "status": 422,
+   "body": "{\"detail\":[{\"type\":\"string_too_short\",\"loc\":[\"query\",\"q\"],\"msg\":\"String should have at least 1 character\",\"input\":\"\",\"ctx\":{\"min_length\":1}}]}"
+  },
+  "单字查询": {
+   "status": 200,
+   "body": "{\"retrieval_time_ms\":4.430300090461969,\"total\":2,\"results\":[{\"segment_id\":707,\"conversation_id\":707,\"timestamp\":\"2026-11-17T11:33:25\",\"emotion\":\"中性\",\"asr_text\":"
+  },
+  "不存在的情绪标签": {
+   "status": 200,
+   "body": "{\"retrieval_time_ms\":1.4801999786868691,\"total\":0,\"results\":[]}"
+  },
+  "起止时间颠倒": {
+   "status": 200,
+   "body": "{\"retrieval_time_ms\":1.8457000842317939,\"total\":0,\"results\":[]}"
+  },
+  "超长查询": {
+   "status": 200,
+   "body": "{\"retrieval_time_ms\":7.985000032931566,\"total\":3,\"results\":[{\"segment_id\":27,\"conversation_id\":27,\"timestamp\":\"2026-11-11T13:40:09\",\"emotion\":\"悲伤\",\"asr_text\":\"最"
+  },
+  "特殊字符": {
+   "status": 200,
+   "body": "{\"retrieval_time_ms\":4.217299981974065,\"total\":0,\"results\":[]}"
+  }
+ }
+}

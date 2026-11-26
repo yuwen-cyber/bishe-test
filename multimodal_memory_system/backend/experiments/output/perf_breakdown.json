@@ -1,0 +1,158 @@
+{
+ "components": {
+  "download": {
+   "mean_ms": 14.3,
+   "min_ms": 7.1,
+   "max_ms": 21.9,
+   "std_ms": 5.5,
+   "n": 6
+  },
+  "upload": {
+   "mean_ms": 27.4,
+   "min_ms": 17.6,
+   "max_ms": 48.4,
+   "std_ms": 10.0,
+   "n": 6
+  },
+  "text_emb": {
+   "mean_ms": 36.3,
+   "min_ms": 17.1,
+   "max_ms": 118.9,
+   "std_ms": 37.0,
+   "n": 6
+  },
+  "asr": {
+   "mean_ms": 1437.6,
+   "min_ms": 1051.2,
+   "max_ms": 2508.7,
+   "std_ms": 505.1,
+   "n": 6
+  },
+  "image_emb": {
+   "mean_ms": 3683.7,
+   "min_ms": 294.2,
+   "max_ms": 20578.9,
+   "std_ms": 7555.8,
+   "n": 6
+  },
+  "audio_emb": {
+   "mean_ms": 109.6,
+   "min_ms": 74.4,
+   "max_ms": 168.0,
+   "std_ms": 29.3,
+   "n": 6
+  }
+ },
+ "samples": {
+  "27": {
+   "segment_id": 27,
+   "duration_ms": 22400,
+   "db_text_len": 37,
+   "db_emotion": "悲伤",
+   "audio_kb": 55.5,
+   "video_kb": 118.9,
+   "t_download_ms": 18.1,
+   "t_upload_ms": 48.4,
+   "t_text_emb_ms": 118.9,
+   "asr_text_len": 37,
+   "asr_text": "最近工作压力真的好大我，感觉有点撑不住了，晚上经常失眠，脑子一直停不下来。",
+   "asr_ratio": 1.0,
+   "t_asr_ms": 2508.7,
+   "t_image_emb_ms": 20578.9,
+   "t_audio_emb_ms": 168.0
+  },
+  "300": {
+   "segment_id": 300,
+   "duration_ms": 13500,
+   "db_text_len": 28,
+   "db_emotion": "中性",
+   "audio_kb": 31.9,
+   "video_kb": 91.0,
+   "t_download_ms": 14.7,
+   "t_upload_ms": 27.7,
+   "t_text_emb_ms": 21.6,
+   "asr_text_len": 28,
+   "asr_text": "我觉得情绪这东西不用太压着，但也别全放出，来得找个平衡。",
+   "asr_ratio": 1.0,
+   "t_asr_ms": 1074.2,
+   "t_image_emb_ms": 294.2,
+   "t_audio_emb_ms": 99.8
+  },
+  "700": {
+   "segment_id": 700,
+   "duration_ms": 14700,
+   "db_text_len": 29,
+   "db_emotion": "厌恶",
+   "audio_kb": 39.1,
+   "video_kb": 153.0,
+   "t_download_ms": 16.7,
+   "t_upload_ms": 26.2,
+   "t_text_emb_ms": 21.6,
+   "asr_text_len": 29,
+   "asr_text": "我最讨厌那种当面不说，背后乱传的人，想想都觉得特别不舒服。",
+   "asr_ratio": 1.0,
+   "t_asr_ms": 1539.2,
+   "t_image_emb_ms": 330.5,
+   "t_audio_emb_ms": 120.2
+  },
+  "2000": {
+   "segment_id": 2000,
+   "duration_ms": 11610,
+   "db_text_len": 15,
+   "db_emotion": "中性",
+   "audio_kb": 24.3,
+   "video_kb": 201.0,
+   "t_download_ms": 21.9,
+   "t_upload_ms": 22.2,
+   "t_text_emb_ms": 17.1,
+   "asr_text_len": 15,
+   "asr_text": "从东门过去，大概三十分钟不堵。",
+   "asr_ratio": 1.0,
+   "t_asr_ms": 1261.3,
+   "t_image_emb_ms": 304.1,
+   "t_audio_emb_ms": 74.4
+  },
+  "2100": {
+   "segment_id": 2100,
+   "duration_ms": 10000,
+   "db_text_len": 21,
+   "db_emotion": "中性",
+   "audio_kb": 31.8,
+   "video_kb": 77.2,
+   "t_download_ms": 7.1,
+   "t_upload_ms": 22.0,
+   "t_text_emb_ms": 18.3,
+   "asr_text_len": 22,
+   "asr_text": "采购单先试一遍，在推广储物柜，按流程走就行。",
+   "asr_ratio": 1.05,
+   "t_asr_ms": 1190.9,
+   "t_image_emb_ms": 299.4,
+   "t_audio_emb_ms": 99.5
+  },
+  "2200": {
+   "segment_id": 2200,
+   "duration_ms": 10000,
+   "db_text_len": 23,
+   "db_emotion": "中性",
+   "audio_kb": 31.2,
+   "video_kb": 144.2,
+   "t_download_ms": 7.1,
+   "t_upload_ms": 17.6,
+   "t_text_emb_ms": 20.1,
+   "asr_text_len": 24,
+   "asr_text": "对账单按区域分开放，物料编码先放着，明天再处理。",
+   "asr_ratio": 1.04,
+   "t_asr_ms": 1051.2,
+   "t_image_emb_ms": 295.2,
+   "t_audio_emb_ms": 95.8
+  }
+ },
+ "cold_start_s": {
+  "download": 0.0,
+  "upload": 0.0,
+  "text_emb": 31.1,
+  "asr": 50.8,
+  "image_emb": 0.1,
+  "audio_emb": 0.1
+ }
+}

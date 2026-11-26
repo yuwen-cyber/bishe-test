@@ -1,0 +1,294 @@
+{
+ "summary": {
+  "正式(1~700)": {
+   "n": 10,
+   "image_real": 10,
+   "image_mock": 0,
+   "image_unknown": 0
+  },
+  "场景噪声(701~2032)": {
+   "n": 10,
+   "image_real": 10,
+   "image_mock": 0,
+   "image_unknown": 0
+  },
+  "影片噪声(2033~2259)": {
+   "n": 10,
+   "image_real": 0,
+   "image_mock": 10,
+   "image_unknown": 0
+  }
+ },
+ "samples": [
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 487,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.002,
+   "img_source": "real",
+   "aud_cos_runtime": 0.022,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 456,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.025,
+   "img_source": "real",
+   "aud_cos_runtime": 0.036,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 33,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.02,
+   "img_source": "real",
+   "aud_cos_runtime": 0.008,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 639,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.002,
+   "img_source": "real",
+   "aud_cos_runtime": -0.006,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 688,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.005,
+   "img_source": "real",
+   "aud_cos_runtime": 0.011,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 83,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.023,
+   "img_source": "real",
+   "aud_cos_runtime": 0.052,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 299,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.012,
+   "img_source": "real",
+   "aud_cos_runtime": 0.01,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 333,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.026,
+   "img_source": "real",
+   "aud_cos_runtime": 0.008,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 655,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.016,
+   "img_source": "real",
+   "aud_cos_runtime": 0.045,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "正式(1~700)",
+   "segment_id": 231,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": 0.017,
+   "img_source": "real",
+   "aud_cos_runtime": 0.02,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 2024,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": 0.004,
+   "img_source": "real",
+   "aud_cos_runtime": 0.006,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 2013,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": 0.01,
+   "img_source": "real",
+   "aud_cos_runtime": 0.01,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 1333,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.005,
+   "img_source": "real",
+   "aud_cos_runtime": 0.015,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 943,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.031,
+   "img_source": "real",
+   "aud_cos_runtime": -0.004,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 1565,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.023,
+   "img_source": "real",
+   "aud_cos_runtime": 0.049,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 1436,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": 0.033,
+   "img_source": "real",
+   "aud_cos_runtime": 0.058,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 1234,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": 0.021,
+   "img_source": "real",
+   "aud_cos_runtime": 0.0,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 1843,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.027,
+   "img_source": "real",
+   "aud_cos_runtime": 0.008,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 992,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.003,
+   "img_source": "real",
+   "aud_cos_runtime": 0.019,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "场景噪声(701~2032)",
+   "segment_id": 1827,
+   "img_cos_real": 1.0,
+   "img_cos_runtime": -0.026,
+   "img_source": "real",
+   "aud_cos_runtime": 0.044,
+   "aud_source": "unknown"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2200,
+   "img_cos_real": -0.022,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2178,
+   "img_cos_real": -0.027,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2251,
+   "img_cos_real": 0.011,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2136,
+   "img_cos_real": -0.047,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2133,
+   "img_cos_real": -0.043,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2210,
+   "img_cos_real": -0.02,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2127,
+   "img_cos_real": -0.035,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2128,
+   "img_cos_real": -0.042,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2085,
+   "img_cos_real": -0.057,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  },
+  {
+   "stratum": "影片噪声(2033~2259)",
+   "segment_id": 2159,
+   "img_cos_real": -0.035,
+   "img_cos_runtime": 1.0,
+   "img_source": "mock",
+   "aud_cos_runtime": 1.0,
+   "aud_source": "run-encoder"
+  }
+ ]
+}

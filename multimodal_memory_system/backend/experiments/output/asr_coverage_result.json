@@ -1,0 +1,314 @@
+{
+ "summary": {
+  "n": 30,
+  "ratio_mean": 0.991,
+  "ratio_min": 0.92,
+  "ratio_max": 1.05,
+  "ratio_std": 0.025,
+  "below_0.6": 0,
+  "empty": 0,
+  "bad_cases": []
+ },
+ "samples": [
+  {
+   "segment_id": 1974,
+   "is_demo": true,
+   "db_len": 17,
+   "asr_len": 17,
+   "ratio": 1.0,
+   "db_text": "工具箱的型号不对，下午两点换一批。",
+   "asr_text": "工具箱的型号不对，下午两点换一批。",
+   "audio_kb": 21.5
+  },
+  {
+   "segment_id": 1852,
+   "is_demo": true,
+   "db_len": 19,
+   "asr_len": 18,
+   "ratio": 0.95,
+   "db_text": "先把备用的椅子登记，仓库那边下午核对。",
+   "asr_text": "先把备用的椅子登记仓库那边下午核对。",
+   "audio_kb": 26.0
+  },
+  {
+   "segment_id": 130,
+   "is_demo": true,
+   "db_len": 33,
+   "asr_len": 33,
+   "ratio": 1.0,
+   "db_text": "这段时间事情堆在一起，我有点乱想，先跟你说说，看看能不能理清一点。",
+   "asr_text": "这段时间事情堆在一起，我有点乱想，先跟你说说，看看能不能理清一点。",
+   "audio_kb": 37.7
+  },
+  {
+   "segment_id": 332,
+   "is_demo": true,
+   "db_len": 25,
+   "asr_len": 25,
+   "ratio": 1.0,
+   "db_text": "我觉得情绪稳一点，挺好的，不容易被外面的事带着跑。",
+   "asr_text": "我觉得情绪稳一点，挺好的，不容易被外面的事带着跑。",
+   "audio_kb": 28.4
+  },
+  {
+   "segment_id": 1223,
+   "is_demo": true,
+   "db_len": 20,
+   "asr_len": 19,
+   "ratio": 0.95,
+   "db_text": "你还记得吗，灯亮着，门开着，人却不在了。",
+   "asr_text": "你还记得吗，灯亮着，门开着人却不在了。",
+   "audio_kb": 30.5
+  },
+  {
+   "segment_id": 1360,
+   "is_demo": true,
+   "db_len": 19,
+   "asr_len": 18,
+   "ratio": 0.95,
+   "db_text": "另外，这份文件签两处，最后一页也要签。",
+   "asr_text": "另外，这份文件签两处最后一页也要签。",
+   "audio_kb": 25.0
+  },
+  {
+   "segment_id": 951,
+   "is_demo": true,
+   "db_len": 20,
+   "asr_len": 20,
+   "ratio": 1.0,
+   "db_text": "这半年我没哭过，今天不知道为什么就哭了。",
+   "asr_text": "这半年我没哭过，今天不知道为什么就哭了。",
+   "audio_kb": 25.3
+  },
+  {
+   "segment_id": 1236,
+   "is_demo": true,
+   "db_len": 13,
+   "asr_len": 12,
+   "ratio": 0.92,
+   "db_text": "那种话说出来，也不觉得脏。",
+   "asr_text": "那种话说出来也不觉得脏。",
+   "audio_kb": 19.8
+  },
+  {
+   "segment_id": 427,
+   "is_demo": true,
+   "db_len": 30,
+   "asr_len": 30,
+   "ratio": 1.0,
+   "db_text": "我最近一直在硬扛，别人问我就说还行，其实心里早就累的不行了。",
+   "asr_text": "我最近一直在硬扛，别人问我就说还行，其实心里早就累的不行了。",
+   "audio_kb": 43.9
+  },
+  {
+   "segment_id": 1701,
+   "is_demo": true,
+   "db_len": 16,
+   "asr_len": 16,
+   "ratio": 1.0,
+   "db_text": "周五之前开会，三号楼已经订好了。",
+   "asr_text": "周五之前开会，三号楼已经订好了。",
+   "audio_kb": 20.7
+  },
+  {
+   "segment_id": 1443,
+   "is_demo": true,
+   "db_len": 13,
+   "asr_len": 13,
+   "ratio": 1.0,
+   "db_text": "外面雾很大，后街灯还没开。",
+   "asr_text": "外面雾很大后，街灯还没开。",
+   "audio_kb": 17.9
+  },
+  {
+   "segment_id": 1039,
+   "is_demo": true,
+   "db_len": 15,
+   "asr_len": 15,
+   "ratio": 1.0,
+   "db_text": "这地方不对劲，我们得现在就走。",
+   "asr_text": "这地方不对劲，我们得现在就走。",
+   "audio_kb": 20.1
+  },
+  {
+   "segment_id": 2257,
+   "is_demo": true,
+   "db_len": 21,
+   "asr_len": 20,
+   "ratio": 0.95,
+   "db_text": "工位记得贴好标签，报销单和上个月的对一下。",
+   "asr_text": "工位记得贴好标签报销单和上个月的对一下。",
+   "audio_kb": 29.2
+  },
+  {
+   "segment_id": 526,
+   "is_demo": true,
+   "db_len": 29,
+   "asr_len": 29,
+   "ratio": 1.0,
+   "db_text": "让我气的是我明明已经解释清楚了，对方还是要按自己的理解来。",
+   "asr_text": "让我气的是我明明已经解释清楚了，对方还是要按自己的理解来。",
+   "audio_kb": 28.4
+  },
+  {
+   "segment_id": 2225,
+   "is_demo": true,
+   "db_len": 21,
+   "asr_len": 21,
+   "ratio": 1.0,
+   "db_text": "评审日程已经交到前台了，台账这周内要归档。",
+   "asr_text": "评审日程已经交到前台了，台账这周内要归档。",
+   "audio_kb": 32.1
+  },
+  {
+   "segment_id": 1691,
+   "is_demo": true,
+   "db_len": 15,
+   "asr_len": 15,
+   "ratio": 1.0,
+   "db_text": "周五之前开会，东门已经订好了。",
+   "asr_text": "周五之前，开会东门已经定好了。",
+   "audio_kb": 22.5
+  },
+  {
+   "segment_id": 1642,
+   "is_demo": true,
+   "db_len": 21,
+   "asr_len": 20,
+   "ratio": 0.95,
+   "db_text": "先把那两箱样品登记，西侧通道那边下午核对。",
+   "asr_text": "先把那两箱样品登记西侧通道那边下午核对。",
+   "audio_kb": 29.2
+  },
+  {
+   "segment_id": 1538,
+   "is_demo": true,
+   "db_len": 17,
+   "asr_len": 17,
+   "ratio": 1.0,
+   "db_text": "电梯周五之前保养，那段时间走楼梯。",
+   "asr_text": "电梯周五之前，保养那段时间走楼梯。",
+   "audio_kb": 24.9
+  },
+  {
+   "segment_id": 1550,
+   "is_demo": true,
+   "db_len": 16,
+   "asr_len": 16,
+   "ratio": 1.0,
+   "db_text": "从三号楼过去大概六分钟，在修路。",
+   "asr_text": "从三号楼过去，大概六分钟再修路。",
+   "audio_kb": 26.0
+  },
+  {
+   "segment_id": 866,
+   "is_demo": true,
+   "db_len": 20,
+   "asr_len": 20,
+   "ratio": 1.0,
+   "db_text": "说真的，话都说到这份上了，你还装听不见。",
+   "asr_text": "说真的哇，都说到这份上了，你还装听不见。",
+   "audio_kb": 31.1
+  },
+  {
+   "segment_id": 2050,
+   "is_demo": true,
+   "db_len": 22,
+   "asr_len": 22,
+   "ratio": 1.0,
+   "db_text": "采购单按新的编号排，交接记录再发一份给行政。",
+   "asr_text": "采购单案、新的编号牌交接记录再发一份给行政。",
+   "audio_kb": 32.9
+  },
+  {
+   "segment_id": 308,
+   "is_demo": true,
+   "db_len": 29,
+   "asr_len": 29,
+   "ratio": 1.0,
+   "db_text": "我觉得我的情绪挺平常的，不会特别高，也不会特别低，算是稳。",
+   "asr_text": "我觉得我的情绪挺平常的，不会特别高，也不会特别低，算是稳。",
+   "audio_kb": 32.6
+  },
+  {
+   "segment_id": 998,
+   "is_demo": true,
+   "db_len": 28,
+   "asr_len": 28,
+   "ratio": 1.0,
+   "db_text": "我一直记得那天的广播声，说车已经到站。我到现在还这么想。",
+   "asr_text": "我一直记得那天的广播声说，车已经到站，我到现在还这么想。",
+   "audio_kb": 38.4
+  },
+  {
+   "segment_id": 433,
+   "is_demo": true,
+   "db_len": 29,
+   "asr_len": 29,
+   "ratio": 1.0,
+   "db_text": "我今天脑子很沉，怕自己弄错，你帮我把步骤拆的再简单一点吧。",
+   "asr_text": "我今天脑子很沉，怕自己弄错，你帮我把步骤拆的再简单一点吧。",
+   "audio_kb": 43.0
+  },
+  {
+   "segment_id": 1470,
+   "is_demo": true,
+   "db_len": 13,
+   "asr_len": 13,
+   "ratio": 1.0,
+   "db_text": "仓库的地面很滑，走路小心。",
+   "asr_text": "仓库的地面很滑，走路小心。",
+   "audio_kb": 18.0
+  },
+  {
+   "segment_id": 1660,
+   "is_demo": true,
+   "db_len": 26,
+   "asr_len": 26,
+   "ratio": 1.0,
+   "db_text": "记得把打印的材料清点一遍，数字记在南边车库的本子上。",
+   "asr_text": "记得把打印的材料清点一遍，数字记在南边车库的本子上。",
+   "audio_kb": 33.2
+  },
+  {
+   "segment_id": 1079,
+   "is_demo": true,
+   "db_len": 18,
+   "asr_len": 18,
+   "ratio": 1.0,
+   "db_text": "说真的，我把它藏在砖底下了，你别问。",
+   "asr_text": "说真的，我把它藏在砖底下了，你别问。",
+   "audio_kb": 25.6
+  },
+  {
+   "segment_id": 2183,
+   "is_demo": true,
+   "db_len": 22,
+   "asr_len": 23,
+   "ratio": 1.05,
+   "db_text": "采购单先试一遍再推广，订餐表再发一份给行政。",
+   "asr_text": "采购单先试一遍，再推广订餐表，再发一份给行政。",
+   "audio_kb": 32.2
+  },
+  {
+   "segment_id": 1528,
+   "is_demo": true,
+   "db_len": 14,
+   "asr_len": 14,
+   "ratio": 1.0,
+   "db_text": "从后街过去大概六分钟，不堵。",
+   "asr_text": "从后街过去，大概六分钟不堵。",
+   "audio_kb": 21.8
+  },
+  {
+   "segment_id": 1095,
+   "is_demo": true,
+   "db_len": 20,
+   "asr_len": 20,
+   "ratio": 1.0,
+   "db_text": "你说会不会有人知道了。我到现在还这么想。",
+   "asr_text": "你说会不会有人知道了，我到现在还这么想。",
+   "audio_kb": 27.0
+  }
+ ]
+}
